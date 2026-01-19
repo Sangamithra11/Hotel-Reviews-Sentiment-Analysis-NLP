@@ -8,3 +8,6 @@ nltk
 joblib
 xgboost
 streamlit
+transformers
+torch
+sentencepiece
